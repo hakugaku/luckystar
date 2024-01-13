@@ -7,20 +7,20 @@
     <script src="start.js"></script>
     <script src="star.js"></script>
     <script src="star12.js"></script>
+    <script src="imgchange.js"></script>
     </head>
 
   <body>
     <p align="center">今年はどんな年になる？<p>
     <h1 align="center">~2024年あなたの運勢を大公開~</h1>
-    <p id="2">
       <img src="./pic/sky.jpg" id="1" alt="sky" class="imagechange">
-   </p>
+
     <h2 align="center">-一言運勢-</h2>
     <p align="center">あなたの星座：<input type ="text" id = "starname">座（ふりがなともじどちらもオッケーです——）
     </p>
-    <input type="button" value="確認"  onclick="check();">
+    <input type="button" value="確認"  onclick="check();imgchange1();setTimeout('imgchange2()',3000);"><br>
       
-    <h2 align="center">総合運の説明</h2>
+    <h2 align="center">総合運の説明</h2><br>
     <input type="button" value="牡羊座" onclick="txtchange1();">
     <input type="button" value="牡牛座" onclick="txtchange2();">
     <input type="button" value="双子座" onclick="txtchange3();">
