@@ -1,7 +1,7 @@
 body {background-color:#b0c4de;}
-h1   {font-size:36pt;color:#5758BB;}
-h2   {color:#4b6584;}
-p    {margin-left:50px;color:#B53471}
+h1   {text-align: center;font-size:36pt;color:#5758BB;}
+h2   {text-align: center;color:#4b6584;}
+p    {text-align: center;color:#B53471}
 img {
     display: block;
     margin: auto;
