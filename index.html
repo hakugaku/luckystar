@@ -5,6 +5,7 @@
     <title>2024星占い</title>
     <link rel="stylesheet" href="mystyle.css">
     <script src="start.js"></script>
+    <script src="txtchange.js"></script>
     </head>
 
   <body>
@@ -13,9 +14,28 @@
    <p id="sky">
       <img src="./pic/sky.jpg" id="sky" alt="sky" class="imagechange">
    </p>
+    <h2>-一言運勢-</h2>
     <p>あなたの星座：<input type ="text" id = "starname">
     </p>
     <input type="button" value="確認"  onclick="check();">
+      
+    <h2>総合運の説明</h2>
+    <input type="button" value="牡羊座" onclick="txtchange1();">
+    <input type="button" value="牡牛座" onclick="txtchange2();">
+    <input type="button" value="双子座" onclick="txtchange3();">
+    <input type="button" value="蟹座" onclick="txtchange4();">
+    <input type="button" value="獅子座" onclick="txtchange5();">
+    <input type="button" value="乙女座" onclick="txtchange6();">
+    <input type="button" value="天秤座" onclick="txtchange7();">
+    <input type="button" value="蠍座" onclick="txtchange8();">
+    <input type="button" value="射手座" onclick="txtchange9();">
+    <input type="button" value="山羊座" onclick="txtchange10();">
+    <input type="button" value="水瓶座" onclick="txtchange11();">
+    <input type="button" value="魚座" onclick="txtchange12();">
+    <div id="txt1">
+    総合運　☆☆☆☆☆</div>
+    <div id="text-container"></div>
+    
    <p aligan><a href="/yourstar.html">もし自分が何の星座かわからない場合は、ここに来て確認してください！</a>
    </p>
       
