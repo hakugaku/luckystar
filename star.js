@@ -80,7 +80,7 @@ function check(){
     alert('自立心が刺激される年！ ひとつずつ自分で考えて決断するのが吉');
   } 
     else if (document.getElementById('starname').value == '魚') {
-    alert('自立心が刺激される年！ ひとつずつ自分で考えて決断するのが吉'
+    alert('自立心が刺激される年！ ひとつずつ自分で考えて決断するのが吉');
   } 
       
   else {    
