@@ -1,4 +1,12 @@
-function txtchange12(){document.getElementById('txt1').innerHTML ='総合運　★★★☆☆
-2024年は自立心が刺激される年。自分で考えて決断しなければならない場面が多くなりそう。ただ、情報収集や意見交換はスムーズにできるので、判断材料には困らないはず！ 何事も一つひとつ丁寧に片付けていくと、心地良い状態になるよ。
-下半期は、自分が安心できる居場所が見つかる時期。引っ越しでは、具体的な計画を立てることで、条件の良い物件を見つけられるはず！
-家族や身内と呼べる友人とは、よりいっそう仲良しになれる予感♩';}
+function txtchange1(){document.getElementById('txt1').innerHTML ='総合運　★★★★☆';}
+function txtchange2(){document.getElementById('txt1').innerHTML ='総合運　★★★★★';}
+function txtchange3(){document.getElementById('txt1').innerHTML ='総合運　★★★★★';}
+function txtchange4(){document.getElementById('txt1').innerHTML ='総合運　★★★☆☆';}
+function txtchange5(){document.getElementById('txt1').innerHTML ='総合運　★★★★☆';}
+function txtchange6(){document.getElementById('txt1').innerHTML ='総合運　★★★☆☆';}
+function txtchange7(){document.getElementById('txt1').innerHTML ='総合運　★★★★☆';}
+function txtchange8(){document.getElementById('txt1').innerHTML ='総合運　★★★★☆';}
+function txtchange9(){document.getElementById('txt1').innerHTML ='総合運　★★★☆☆';}
+function txtchange10(){document.getElementById('txt1').innerHTML ='総合運　★★★★☆';}
+function txtchange11(){document.getElementById('txt1').innerHTML ='総合運　★★★☆☆';}
+function txtchange12(){document.getElementById('txt1').innerHTML ='総合運　★★★☆☆';}
